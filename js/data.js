@@ -88,35 +88,162 @@ var recruit={
     }
 }
 var news= {
-    0: {
+	0: {
+        'year': '2018',
+        'ndate': '07-18',
+        'tit': '暴雨突袭，他们用行动守卫家园！',
+        'img':'img/new/20180718-1.jpg',
+        'txtTop': '早晨你是不是也被这场来势汹汹的暴雨吵醒了呢？面对今年多地区的暴雨险情，晟邦物业的工作人员时刻待命，无论风多大，雨多强！应对极端天气，守护必达！',
+        'txt': '<div style="text-align:center"><p>早晨你是不是也被<br></p><p>这场来势汹汹的暴雨吵醒了呢？</p><p data-brushtype="text"><strong>温馨提示</strong></p><p>今天凌晨起受降水云团影响</p><p>北京发布雷电、暴雨、地质和洪水四项预警</p><p>密云更是发布了暴雨红色预警信号</p><p>西北部<strong>地区出现特大暴雨</strong></p><p><strong>未来24小时</strong></p><p><strong>北京房山、门头沟、怀柔、密云等山区</strong></p><p><strong>发生泥石流、崩塌、滑坡等地质灾害的风险高</strong></p><p><strong>请注意防范！</strong></p><p>大雨倾城，我们的家还好吗？</p><p>面对今年多地区的暴雨险情</p><p>晟邦物业的工作人员</p><p>时刻待命</p><p>无论风多大，雨多强</p><p>应对极端天气</p><p>守护必达</p></div>' +
+'<p><img data-ratio="0.66125" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pCh5K9b6jyTibmPG3xK1k3kg9Ybp1BrasUhPibGHvZG9Mic3TZ02xJuOicw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pCh5K9b6jyTibmPG3xK1k3kg9Ybp1BrasUhPibGHvZG9Mic3TZ02xJuOicw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="0.66125" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pF8Rm0SZKwo0hbSeVxjlcTBrOIStOW6r2NMC5x72jDdoUATEFZ2Io3g/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pF8Rm0SZKwo0hbSeVxjlcTBrOIStOW6r2NMC5x72jDdoUATEFZ2Io3g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0">受暴雨影响，个别地段出现短时积水暴涨，导致数量车被浸泡水中。</p>' +
+'<p dir="ltr"><img data-ratio="0.56125" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pTfNxEblSYXzhlQgDrFnNx3YgpCstqfFQxc8xcyWlH4sIBR9asPex5Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pTfNxEblSYXzhlQgDrFnNx3YgpCstqfFQxc8xcyWlH4sIBR9asPex5Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><br></p>' +
+'<p dir="ltr">晟邦物业服务中心及时启动应急预案，组织所有人员及时将被淹车辆挪移到安全地带。</p>' +
+'<p dir="ltr"><img data-ratio="0.66125" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9p5WibBjfQ1xXtWFAAjdEUT9BXU7TAOd0zNwMc4bISj21DTy6kzbFH7Vw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9p5WibBjfQ1xXtWFAAjdEUT9BXU7TAOd0zNwMc4bISj21DTy6kzbFH7Vw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p dir="ltr">工作人员浸泡雨水中数小时，裤管已全部湿透，尽可能为业主降低损失。</p>' +
+'<p><img data-ratio="1.265" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pOnO8Y9cBGibuPCqQ0GmMvEAhS4hGF8wqMgurEBCyBeibc0nEC4OHzcRQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pOnO8Y9cBGibuPCqQ0GmMvEAhS4hGF8wqMgurEBCyBeibc0nEC4OHzcRQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="1.22" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9py6PdUh8mVGnWKPp1CoiceWdKicnUuCBriayxNb2XS20ZNWiapFic5l4DqEw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9py6PdUh8mVGnWKPp1CoiceWdKicnUuCBriayxNb2XS20ZNWiapFic5l4DqEw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="1.02375" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pAJD0FrTCdKHibrZcOoJ4VgrFvYSlU4WN1ZkW5gpT3kRWa4IBiaJI5a2A/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pAJD0FrTCdKHibrZcOoJ4VgrFvYSlU4WN1ZkW5gpT3kRWa4IBiaJI5a2A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0">晟邦物业工作人员在雨中快速清理於堵点，为业主安全出行保驾护航。</p>' +
+'<p>风雨中有险情</p>' +
+'<p>更有温情</p>' +
+'<p>这几天，我们也收到了</p>' +
+'<p>各小区业主们对我们工作的认可及表扬</p>' +
+'<p>感谢您对我们的默默支持</p>' +
+'<p>无论大风大浪</p>' +
+'<p>我们一直在一起</p>' +
+'<p><img data-ratio="1.7775" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9puo3yrP3IvkRTrqlY0CXfBaLAs2YZ8AcF1IjjP8BcpLWypXN2k7RHibw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9puo3yrP3IvkRTrqlY0CXfBaLAs2YZ8AcF1IjjP8BcpLWypXN2k7RHibw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="0.9075" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pl9f2oyvP4Qp7IMYdngib1L3kMwkOZUdDib7JtoI0kyx6xxfmgOzljN3A/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pl9f2oyvP4Qp7IMYdngib1L3kMwkOZUdDib7JtoI0kyx6xxfmgOzljN3A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="1.7777777777777777" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pJcMx4aC6hxroY2BF8futtqR9Iyk5u9EY3oKa0u1Z8wZdTVaxdVt45Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="720" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pJcMx4aC6hxroY2BF8futtqR9Iyk5u9EY3oKa0u1Z8wZdTVaxdVt45Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="1.26" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pa74uJwRqqQUWR9xoMNnHxBj279CWjyCw7jAxMt6cTibATO0GrVHW6hQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gs9r44hdLDz81wCMQaBBf9pa74uJwRqqQUWR9xoMNnHxBj279CWjyCw7jAxMt6cTibATO0GrVHW6hQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><strong>感谢</strong></p>' +
+'<p><strong>一直奋战在防汛一线的物业战士！</strong></p>' +
+'<p><strong>感谢</strong></p>' +
+'<p><strong>每一位业主给予晟邦物业最大的信任！</strong></p>'
+    },
+	1: {
+        'year': '2018',
+        'ndate': '07-06',
+        'tit': '2018，上半年再见，下半年你好！',
+        'img':'img/new/20180706-1.jpg',
+        'txtTop': ' 窗外的空气一点点升温，夏日的蝉鸣在傍晚热闹起来，捧着手里透红的西瓜，才突然惊觉，告别了6月，上半年的时光已悄然从指尖溜走。恍惚间，我们又一起走过了半年，迎来了下半年。',
+        'txt': '<strong>窗外的空气一点点升温，夏日的蝉鸣在傍晚热闹起来，捧着手里透红的西瓜，才突然惊觉，告别了6月，上半年的时光已悄然从指尖溜走。</strong><br>' +
+'<p><strong>恍惚间，我们又一起走过了半年，迎来了下半年。</strong><br></p>' +
+'<p><strong>为了规范物业服务，提高晟邦物业的服务质量，便于业主更好的监督我们的工作，现将2018上半年物业服务报告呈报给您，欢迎广大业主监督，同时希望您能提出宝贵的意见。</strong><br></p>' +
+'<p>1、晟邦物业荣誉篇<br></p>' +
+'<p>2018年五月份我司接到荣华街道办事处通知，要求我司与其他消防重点单位共30余支微型消防参加消防实操培训和比武考核。本次比武于2018年6月11日、12日在开发区中航广场举办，由荣华街道办事处组织、消防支队参与。</p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC8uYkSYVlLX9DZUpnOqPkHyYx70D7AcnNhKMXKnl1lE4aOdianWFlS5Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC8uYkSYVlLX9DZUpnOqPkHyYx70D7AcnNhKMXKnl1lE4aOdianWFlS5Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>我司高度重视，并对微型消防站开展专人专项训练，依照专业化标准对微型消防站成员进行消防器材实操、消防服穿戴、灭火知识进行学习。</p>' +
+'<p><img data-ratio="1.7775" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCE7ETfwbp2MsialZCSRBrW6PiccZIVUw7mPgoesTW6ic9F9p1wkzrRH4ww/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCE7ETfwbp2MsialZCSRBrW6PiccZIVUw7mPgoesTW6ic9F9p1wkzrRH4ww/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC7e91s879aMibRuA41voOsW5wQ3BYX9xn5d2icial3fRvEhEpTodgC6qdQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC7e91s879aMibRuA41voOsW5wQ3BYX9xn5d2icial3fRvEhEpTodgC6qdQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCpLcuGrsJDky3TcFn3SzNFu8ibB0mLDwGn7liaTt2jfick1SrIvpduIiaKg/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCpLcuGrsJDky3TcFn3SzNFu8ibB0mLDwGn7liaTt2jfick1SrIvpduIiaKg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>经过激烈的角逐，林肯公园B区微型消防站在此次大比武中荣获&ldquo;一等奖&rdquo;，林肯公园C区荣获&ldquo;二等奖&rdquo;。<br></p>' +
+'<p><img data-ratio="0.68625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCOw9yKRaQNVDdD266yPxH2ibVBrjZfTvyPwGI7s6RPlyM87RK5MvTTJQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCOw9yKRaQNVDdD266yPxH2ibVBrjZfTvyPwGI7s6RPlyM87RK5MvTTJQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.6100543478260869" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCrkugnZZic90ibK7kLpBTdibcSaialjsMCbDaGp7wHM4Ms6eVPB2h1XOh7Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="736" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCrkugnZZic90ibK7kLpBTdibcSaialjsMCbDaGp7wHM4Ms6eVPB2h1XOh7Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<img data-ratio="0.125" data-src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC3yRml4ClhzEE7VHbCmmBm0jKIxSzppTeBXJXz2lkEcr69993pqmaEQ/640?wx_fmt=png" data-type="png" data-w="600" title="墨迹晕染分割线" _width="192px" src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC3yRml4ClhzEE7VHbCmmBm0jKIxSzppTeBXJXz2lkEcr69993pqmaEQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1" data-fail="0">' +
+'<p>北京晟邦物业管理有限公司今年以优异的表现和特色的服务再次荣登&ldquo;中国物业服务百强企业&rdquo;榜，并荣获&ldquo;2018中国特色物业服务领先企业——小邦管家增值服务体系&rdquo;荣誉。<br></p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCn7kO6BIWbzoic1z6ZG3xG9u8s8ZX7Kr0lZ3u2RQzOvPqcoTaNNsia7sw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCn7kO6BIWbzoic1z6ZG3xG9u8s8ZX7Kr0lZ3u2RQzOvPqcoTaNNsia7sw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCINRRn7Im7xkrkjY1Hic8YJnwwVoRfEJ7VbuIOqWfGEJAMdJpaglAQWw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCINRRn7Im7xkrkjY1Hic8YJnwwVoRfEJ7VbuIOqWfGEJAMdJpaglAQWw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>2、云客服升级篇</p>' +
+'<p><img data-ratio="0.2575" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCkZRLGKbJgU4INfgFuHaLSicvDebPSXGBsP2FicvXoQXV1WFBJY6Q4lKQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCkZRLGKbJgU4INfgFuHaLSicvDebPSXGBsP2FicvXoQXV1WFBJY6Q4lKQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>晟邦物业为提升服务品质，保证广大业主的便利性，客服中心现对电话接报系统进行了全面升级，原热线电话67832677升级为<strong>86355666</strong>。</p>' +
+'<p><img data-ratio="0.406" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCicCAEPg5LRSUJ4AnERdVAz6NbCfBSGR33Mric5BOsDLPfImM2PYP96VA/640?wx_fmt=jpeg" data-type="jpeg" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCicCAEPg5LRSUJ4AnERdVAz6NbCfBSGR33Mric5BOsDLPfImM2PYP96VA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>此次升级与北京联通公司合作搭建了云客服服务平台，智慧社区已从愿景走向现实。从便民、利民、惠民的角度出发，以业户需求为导向，围绕社区生活服务、社区管理及公共服务等多方面，实现了公共服务的精细化、社区居民生活的便捷化，形成了新型、生态、可持续的社区发展模式。</p>' +
+'<p>3、客服管家服务篇</p>' +
+'<p>业主俱乐部特邀同仁堂、爱育华妇儿医院专家大夫举办爱心义诊活动，活动期间效果较好。</p>' +
+'<p><img data-ratio="0.74875" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC9PiarB7cicVLqY2CBu684sfZibEZq1atFxofVzZRBxAK2bFoAmJAPvBGw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC9PiarB7cicVLqY2CBu684sfZibEZq1atFxofVzZRBxAK2bFoAmJAPvBGw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.74875" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCFicLhJstRypdyeAW5XtSeKiaEaVX040nWC3x3SEVs46tWW5kkUO3tVZQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCFicLhJstRypdyeAW5XtSeKiaEaVX040nWC3x3SEVs46tWW5kkUO3tVZQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>4、工程设备检修养护篇</p>' +
+'<p>设备正常运行，离不开日常保养，工程师傅在为设备及园区各个角落的线路进行检修维护。<br/><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCT5dxxHFYYUfBl4kT4pPWbbmJYia6Azp85iaMd7YUmNw5OkWHZIpotaGw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCT5dxxHFYYUfBl4kT4pPWbbmJYia6Azp85iaMd7YUmNw5OkWHZIpotaGw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><br></p>' +
+'<p><img data-ratio="0.75" data-type="jpeg" data-w="800" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozChaicqzViazmibQwzCribNmMVNOa5K4N0fQaxgTZgj4oiaJP6ySjeGOpbrQw/640?wx_fmt=jpeg" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozChaicqzViazmibQwzCribNmMVNOa5K4N0fQaxgTZgj4oiaJP6ySjeGOpbrQw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><br></p>' +
+'<p><img data-ratio="1.3325" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC6PBvxDEAKlxpGicO8lPbRTic35mc9ibmlEKjkrZLTBskp0YJcrKzIFBlg/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC6PBvxDEAKlxpGicO8lPbRTic35mc9ibmlEKjkrZLTBskp0YJcrKzIFBlg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>5、安全消防篇</p>' +
+'<p>按照国家消防相关规定各项目针对公司下发消防65项问题进行专项大检查，将自查项进行整改，确保园区消防设备无隐患。<br></p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCIm4q2DFNScZbAtnpPCAggmCMrjiap2VAjKMVdeQwcE3qgvZFTFAeqxg/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCIm4q2DFNScZbAtnpPCAggmCMrjiap2VAjKMVdeQwcE3qgvZFTFAeqxg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>对即将到期的灭火器进行年检并认真检查消防器材是否正常状态，发现问题及时处理。</p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCaQjicTIrFsRR9uGxsQ0ic3fa6UdiaE6KkAYrNSlURUibcGnqsQH0Oe8qKg/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCaQjicTIrFsRR9uGxsQ0ic3fa6UdiaE6KkAYrNSlURUibcGnqsQH0Oe8qKg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>6、公共环境卫生清洁篇</p>' +
+'<p>为创造一个美丽、文明的生活和工作环境，定期对园区楼宇外墙、地面、垃圾桶及各个角落进行清洗以及消杀工作。</p>' +
+'<p><img data-ratio="0.7475" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCXrDic4hw4waKJtOMCBl0NOCI8hlS3YEyWPJcqQnJDszy7M3O05jErDw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCXrDic4hw4waKJtOMCBl0NOCI8hlS3YEyWPJcqQnJDszy7M3O05jErDw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"><img data-ratio="1.3325" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC7rrwbmco5dw9R0C4Yb4wnt2tdKBEmpUcUfl04znwJWXQVrrPBtRDXA/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC7rrwbmco5dw9R0C4Yb4wnt2tdKBEmpUcUfl04znwJWXQVrrPBtRDXA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>各项目对绿化区域进行修建养护，为业主呈现花园式居住环境。</p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCqunw8ZicXth25siaN9ILZEVJDDst1Df6qEWiboMmkyrCv4vP4cx0gicIPQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCqunw8ZicXth25siaN9ILZEVJDDst1Df6qEWiboMmkyrCv4vP4cx0gicIPQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.56625" data-type="jpeg" data-w="800" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCmLREXm76jUZej3apdfCWCb3gj7qb1fLa7tmbwbuwpbjqy2y4yvwTSA/640?wx_fmt=jpeg" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCmLREXm76jUZej3apdfCWCb3gj7qb1fLa7tmbwbuwpbjqy2y4yvwTSA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<span data-brushtype="text"> </span>' +
+'<p> 感谢所有业户一直以来对物业服务工作的关注与支持，在未来的工作中，我们将竭诚为您营造一个更为舒适的居住环境。</p>'
+    },
+    2: {
+        'year': '2018',
+        'ndate': '07-06',
+        'tit': '晟邦物业在北京物业管理协会第一届物业人才艺大赛中喜获二等奖',
+        'img':'img/new/20180706-2.jpg',
+        'txtTop': '晟邦物业选送的《花开中国年》舞蹈获得"出彩物业人 精彩物业梦"北京物协第一届物业人才艺大赛总决赛二等奖。',
+        'txt': '<p><strong>晟邦物业选送的《花开中国年》舞蹈获得"出彩物业人 精彩物业梦"北京物协第一届物业人才艺大赛总决赛二等奖。</strong></p><p><br></p>' +
+'<p>208年7月5日，由北京物业管理行业协会主办的&ldquo;出彩物业人，精彩物业梦&rdquo;北京物协第一届物业人才艺大赛总决赛在北京首都经济贸易大学举办。</p>' +
+'<p><img data-ratio="0.6058673469387755" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC4Ysjwsr1phWN2vrwTkjeThkLJvKicjXOyGNNZeqVG9L8CJiclHntzahw/640?wx_fmt=jpeg" data-type="jpeg" data-w="784" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC4Ysjwsr1phWN2vrwTkjeThkLJvKicjXOyGNNZeqVG9L8CJiclHntzahw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>由晟邦物业员工自编自导自演的《花开中国年》在各大物业公司选送的83个节目中脱颖而出，与其他21个节目同时进入决赛。</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC5Sa7tlpSvlWD0ibxGeRdx7n0m2Q93KVicHN8wiaeqLnqAhzUk2AYfQr2w/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC5Sa7tlpSvlWD0ibxGeRdx7n0m2Q93KVicHN8wiaeqLnqAhzUk2AYfQr2w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozChzZ0MLmugH19vGGsNtDykmbmEsiampufbXT6gYreYkJuxg82KTB8Okg/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozChzZ0MLmugH19vGGsNtDykmbmEsiampufbXT6gYreYkJuxg82KTB8Okg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>我们的啦啦队！</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC9QJWUYRpmfib4rvnBTCAlZicX5TLCxwTfJeHMqY4EWSncPh1AfVNabJQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC9QJWUYRpmfib4rvnBTCAlZicX5TLCxwTfJeHMqY4EWSncPh1AfVNabJQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>经过现场评委的专业评选，晟邦物业《花开中国年》获得本次大赛二等奖。</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCyNQicBhbWiafy86eMxgvODgGgHNanl4ibLvRJOVrxo7V5HW8WQ3ONl8RQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCyNQicBhbWiafy86eMxgvODgGgHNanl4ibLvRJOVrxo7V5HW8WQ3ONl8RQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>晟邦物业社区文化负责人、国家二级演员冯云喜（右4）代表晟邦物业上台领取荣誉证书.</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCPt0xQHF5iaYvUiaoZucGFRdtRVhZxPfrl5MW6ib134D2Ncma4vK5fF7Ng/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozCPt0xQHF5iaYvUiaoZucGFRdtRVhZxPfrl5MW6ib134D2Ncma4vK5fF7Ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.69625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC97qyVZYERYESRW6Xjiaaia6PjLJ8Bx7VLSGY2nmQ5oUTZPWEsdRryNnw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtiamzibeT3NUyutkIhju9ozC97qyVZYERYESRW6Xjiaaia6PjLJ8Bx7VLSGY2nmQ5oUTZPWEsdRryNnw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>'
+    },
+    3: {
         'year': '2018',
         'ndate': '07-01',
         'tit': '追求卓越品质 沟通从“心”开始',
-        'img':'img/n-0.jpg',
+        'img':'img/new/20180726-1.jpg',
         'txtTop': '尊敬的业户，晟邦物业为提升服务品质，保证广大业主的便利性，客服中心现对电话接报系统进行了全面升级，届时原热线电话67832677将升级为86355666。',
-        'txt': '为活跃园区文化气氛，展示园区春日美丽风景，在2018年4月晟邦物业组织了首届“春之林肯”摄影大赛。本次摄影大赛面向林肯公园业主征稿，共有30份作品入选，参与最终评定。经过4天激烈的网上投票，评选出一等奖1名，二等奖3名，三等奖6名，鼓励奖20名，其中作品“Happy逐梦”获得本次大赛一等奖。\n' +
-        '               <p><img src="img/new/20180421-1.jpg" alt=""></p>\n' +
-        '                一等奖作品“Happy逐梦”展示\n' +
-        '                <p><img src="img/new/20180421-10.jpg" alt=""></p>\n' +
-        '                4月21日，在这充满诗意的季节里，我们满怀喜悦的在林肯公园组织开展了首届“春之林肯”摄影大赛的颁奖活动\n' +
-        '                <p><img src="img/new/20180421-2.JPG" alt=""></p>\n' +
-        '                李秀成经理为一等奖获奖者颁奖\n' +
-        '                <p><img src="img/new/20180421-3.JPG" alt=""></p>\n' +
-        '                一等奖获奖者初小姐发表获奖感言\n' +
-        '                <p><img src="img/new/20180421-4.JPG" alt=""></p>\n' +
-        '                梁然主任为二等奖获奖者颁奖\n' +
-        '                <p><img src="img/new/20180421-5.JPG" alt=""></p>\n' +
-        '                和谐大使陈国来先生、冯桂珍女士为三等奖获奖者颁奖\n' +
-        '                <p><img src="img/new/20180421-6.JPG" alt=""></p>\n' +
-        '                和谐大使陈国来先生发言，对园区社区文化建设给予好评，期待今后有更多的此类活动开展，丰富业主业余文化生活。\n' +
-        '               \n' +
-        '                <p><img src="img/new/20180421-7.JPG" alt=""></p>\n' +
-        '                和谐大使任影女士表示，很开心作为林肯公园业主参与本次活动，正像我的作品名称“林肯我的美丽和谐家园”一样，愿我们的林肯，我们的家园越来越美丽！让我们一起为这个和谐的大家庭做出自己的努力！\n' +
-        '                <p><img src="img/new/20180421-9.JPG" alt=""></p>\n' +
-        '                <p>活动最后，贴心管家们为获得鼓励奖的参赛者颁奖，灿烂笑容绽放在业主和管家们每个人的脸上！业主、物业一家亲！</p>\n' +
-        '                通过本次大赛，拉近了业主与物业之间的距离，也增加了邻里关系的融洽。今后我们会开展更多此类活动，让我们因“春之林肯”而相遇、相识，相知。首届“春之林肯”摄影大赛圆满结束！'
+        'txt': '<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4hvfJRBM8c4nIQFRhstZ8ht46VT7TSTHQBq1EzhzgaYGgAQxHQ9U8Bw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4hvfJRBM8c4nIQFRhstZ8ht46VT7TSTHQBq1EzhzgaYGgAQxHQ9U8Bw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>尊敬的业户，晟邦物业为提升服务品质，保证广大业主的便利性，客服中心现对电话接报系统进行了全面升级，届时原热线电话67832677将升级为<strong>86355666</strong>。</p>' +
+'<p>随着移动互联网、大数据和云计算等技术的快速发展，晟邦物业客服中心为跟随信息化脚步，此次升级与北京联通公司合作搭建了云客服服务平台，智慧社区已从愿景走向现实。从便民、利民、惠民的角度出发，以业户需求为导向，围绕社区生活服务、社区管理及公共服务等多方面，实现了公共服务的精细化、社区居民生活的便捷化，形成了新型、生态、可持续的社区发展模式。</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4R5F3hN7Ju2yQRPwLGqRYmefcQzCVdV7FuJdvcOh6HWiclib0CUwMHKaw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4R5F3hN7Ju2yQRPwLGqRYmefcQzCVdV7FuJdvcOh6HWiclib0CUwMHKaw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>客户服务中心为了实现&ldquo;一个电话解决业主生活所需&rdquo;的服务理念，每位客服专员都经过专业培训并全心全意为业户服务，及时有效的解决业户的报修及咨询。</p><br>' +
+'<p><img data-copyright="0" data-cropselx1="0" data-cropselx2="484" data-cropsely1="0" data-cropsely2="640" data-ratio="1.3251879699248121" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gsSLLOrFm5TNsdEdwEGR5UoJNywSH3ImT70mYENBlu1V6poNDNc9qFOtuibThjndqPCnwAgkP5HzjQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="532" _width="484px" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gsSLLOrFm5TNsdEdwEGR5UoJNywSH3ImT70mYENBlu1V6poNDNc9qFOtuibThjndqPCnwAgkP5HzjQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0">客户服务中心拥有一支年轻有活力且高效的团队，可以及时高效的解决业户生活所需，每位员工牢记服务口号，确保让每一位业户满意。</p><br>' +
+'<p><img data-ratio="0.7275" data-src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4iaO5PjFcJRe0FERoW2aqlIZkdicDqhszQohNFqRwyW4RsV7icsicicKIkyQ/640?wx_fmt=png" data-type="png" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4iaO5PjFcJRe0FERoW2aqlIZkdicDqhszQohNFqRwyW4RsV7icsicicKIkyQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>客服专员从接报、记录、指派、回访、存档每一个环节都保证及时、有效的完成。</p><br>' +
+'<p><img data-ratio="0.2575" data-src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4icicZhmXPKOHHDBoAYw9JW3llFOibMFo0Gd30N6WrtTURFsLWOibzXsuAQ/640?wx_fmt=png" data-type="png" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_png/dx0ZTBYn7gucrqgRLb8ZP2QGjIicCxhp4icicZhmXPKOHHDBoAYw9JW3llFOibMFo0Gd30N6WrtTURFsLWOibzXsuAQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>24小时客服热线：010-86355666</p>' +
+'<p>通过专业的语音呼叫系统，客服中心可以实现多路电话接听，业主无需长时间等待！</p>'
     },
-	1: {
+    4: {
+        'year': '2018',
+        'ndate': '06-01',
+        'tit': '捷报！晟邦物业再次入围“中国物业服务百强企业”',
+        'img':'img/new/201800601-1.jpg',
+        'txtTop': '2018年6月1日，由中国指数研究院、中国房地产TOP10研究组主办的“2018中国物业服务百强企业研究成果发布会暨第十一届中国物业服务百强企业家峰会”在北京举行。',
+        'txt': '<p><img data-copyright="0" data-cropselx1="0" data-cropselx2="529" data-cropsely1="0" data-cropsely2="373" data-ratio="0.7077363896848138" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfLOsFSNsDuhbgazdLZjPKqLdgpHrtqB8voz9RYRTm6leguv7NuXFa7Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="1047" _width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfLOsFSNsDuhbgazdLZjPKqLdgpHrtqB8voz9RYRTm6leguv7NuXFa7Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>&ldquo;2018中国物业服务百强企业&rdquo;荣誉证书</p>' +
+'<p data-brushtype="text"><strong>导读</strong></p>' +
+'<p>2018年6月1日，由中国指数研究院、中国房地产TOP10研究组主办的&ldquo;2018中国物业服务百强企业研究成果发布会暨第十一届中国物业服务百强企业家峰会&rdquo;在北京举行。</p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfdrjCXroh59uSgl0KUjJ422jibY3c4CmsVJbbA3fNFQQCIPJH9r7tFrA/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfdrjCXroh59uSgl0KUjJ422jibY3c4CmsVJbbA3fNFQQCIPJH9r7tFrA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>北京晟邦物业管理有限公司以优异的表现和特色的服务荣登&ldquo;中国物业服务百强企业&rdquo;榜，并荣获&ldquo;2018中国特色物业服务领先企业——小邦管家增值服务体系&rdquo;荣誉。</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfkABSIibFibd7DeVvDiaHH3xRcUianMzy5QhJg7iau6IFwT2mQkueWhXUz6w/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfkABSIibFibd7DeVvDiaHH3xRcUianMzy5QhJg7iau6IFwT2mQkueWhXUz6w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>中国指数研究院常务副院长、中国地产TOP10研究组办公室主任黄瑜为北京晟邦物业副总经理董光亮先生颁发证书。</p>' +
+'<p><img data-ratio="0.66625" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfJib8aO0TkUD4ibQjMpdKmap3UpeDr3L01LFsNOy6CkVG1o2M6LwX7e5A/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfJib8aO0TkUD4ibQjMpdKmap3UpeDr3L01LFsNOy6CkVG1o2M6LwX7e5A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>北京晟邦物业副总经理董光亮先生（左4）上台领取证书并合影留念。</p>' +
+'<p><img data-copyright="0" data-ratio="3.982851985559567" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfL8oB8n9tQLl8hqEicbUyFzbT1ZSm4VcwmazicBNX1pC2klWKX3xB6nvg/640?wx_fmt=jpeg" data-type="jpeg" data-w="1108" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfL8oB8n9tQLl8hqEicbUyFzbT1ZSm4VcwmazicBNX1pC2klWKX3xB6nvg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><br></p><p>北京晟邦物业管理有限公司排74名，同比去年，短短一年时间，晟邦物业通过努力在今年物业服务百强企业名单中排名提升了9名，这对于晟邦物业来说是极大的鼓励。</p>' +
+'<p><img data-ratio="2.41875" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfwsZzWZXvUaJ19AobMuiaXDYdFJIBmwp9exwLa0gLhld8wWgeV7WdhYA/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfwsZzWZXvUaJ19AobMuiaXDYdFJIBmwp9exwLa0gLhld8wWgeV7WdhYA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p><img data-ratio="0.75" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfgLdUlPBEibTn5ApnTrQdPmxToQ9pH1LoMKeibYNngNoES1oeNUSEIqFw/640?wx_fmt=jpeg" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfgLdUlPBEibTn5ApnTrQdPmxToQ9pH1LoMKeibYNngNoES1oeNUSEIqFw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>晟邦物业副总经理董光亮先生和经营管理公司总经理宋书祥先生在百强荣誉墙合影留念</p>' +
+'<p><strong>深耕北京逐步外延，踏实稳步前进</strong></p>' +
+'<p><img data-ratio="0.4314079422382672" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfqb5CW2ia23UGJkT78hvtFnAvncTwAJ2u4011dib3rSApjv8AKQfSz14w/640?wx_fmt=jpeg" data-type="jpeg" data-w="554" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfqb5CW2ia23UGJkT78hvtFnAvncTwAJ2u4011dib3rSApjv8AKQfSz14w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>自2008年成立以来，晟邦物业秉承&ldquo;务实、高效、责任、和谐&rdquo;的集团核心价值观与企业精神，以&ldquo;品质生活、悉心为你&rdquo;的服务理念为客户提供贴心的服务。数年来，服务项目和在管面积逐年稳步增长。目前在管项目包括林肯公园、林肯公寓、君安国际、星悦国际、珺悦国际、鹭峯国际、尚峰壹号、润景园、锦绣园、空港国际等多个项目，管理面积超过300万平方米，在管业主总户数达15369户；并储备有北京庄园、柏悦国际、杭州长睦等多个待管项目。服务产品覆盖保障房、住宅、商办、商业、别墅、产业园等多种业态。服务范围已开始由北京向京外延伸。</p>' +
+'<p><strong>客户至上，促进企业良性成长</strong></p>' +
+'<p><img data-ratio="0.4203338391502276" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfBWxpWck0IoS2iaB5HMISDeIyiaXW9icfW3q913CWMj3DLclyFNfhAQUjQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="659" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLfBWxpWck0IoS2iaB5HMISDeIyiaXW9icfW3q913CWMj3DLclyFNfhAQUjQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>数年来，随着晟邦物业的服务项目与在管总建筑面积的逐年稳步增长，公司主营业务的物业费收缴率与服务满意度调查结果相得益彰，始终保持在98%以上。与此同时，各项成本规范、合理的有效控制，使企业利润稳定，经营状况良好，晟邦物业实现着良性的快速增长。</p>' +
+'<p><strong>基础服务扎实良好，增值服务锦上添花</strong></p>' +
+'<p>晟邦物业聚合了来自国内知名物业公司具有多年物业管理经验的一批精英，始终将&ldquo;业主至上、服务第一、精细高效、追求卓越&rdquo;作为自己的服务宗旨，通过专业化、制度化、标准化、程序化的服务体系，以及&ldquo;全天候管家式服务&rdquo;、智能化管理体系等手段的导入，基础服务、增值服务齐头并进，为业主创造价值，引领企业不断的提升和进步。 </p>' +
+'<p><strong>多种经营布局拓展，经营业绩稳步增长</strong><br></p>' +
+'<p>为客户提供符合行业发展趋势的专业化服务，以&ldquo;创造最具价值的生活空间&rdquo;为我们的愿景，     2017年，晟邦物业经营服务通过管理策划、年度计划、全面预算管理逐步拓展衍生经营服务。形成了具有晟邦物业企业特色，为广大业主津津乐道的管家小邦增值服务体系。多元化发展的布局，促使晟邦物业经营业绩持续高速增长。</p>' +
+'<p><strong>24小时客户服务中心，全天候终身微信管家</strong></p>' +
+'<p><img data-copyright="0" data-ratio="0.75" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLf3TMich6ZDmtb8cFUrIRiccd37RT6SOuiblqzSLIWvk3zxUFghXUFVBG3Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLf3TMich6ZDmtb8cFUrIRiccd37RT6SOuiblqzSLIWvk3zxUFghXUFVBG3Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>晟邦物业坚持&ldquo;品质生活，悉心为你&rdquo;的服务理念，打造了&ldquo;24小时客户服务中心&rdquo;，由总经理直管的24小时客户服务中心集中管理、统筹指挥各项目的咨询、接报、派工、回访、满调、处突、催费等项服务。同时晟邦物业的各项衍生经营服务活动得以有效融于常态化的物业管理与服务之中。</p>' +
+'<p>为业户提供方便、快捷、贴心的管家服务，晟邦物业设置了终身管家微信号，做到了管家与业户的一对一交流，不论是常态的物业管理服务还是增值的社区商务活动。</p>' +
+'<p><strong>老有所乐，少有所学，全方位高品质社区文化</strong></p>' +
+'<p><img data-copyright="0" data-ratio="0.7168874172185431" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLf9eicBtpOmibSQNR6C17qWaWBxMc6zZRibUiaDaWreFXAlB9YD1FG84anSg/640?wx_fmt=jpeg" data-type="jpeg" data-w="604" src="https://mmbiz.qpic.cn/mmbiz_jpg/dx0ZTBYn7gtRE5q5iap1gX1Ruooic7LaLf9eicBtpOmibSQNR6C17qWaWBxMc6zZRibUiaDaWreFXAlB9YD1FG84anSg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-fail="0"></p>' +
+'<p>晟邦物业致力于打造着特有的&ldquo;老有所乐，少有所学&rdquo;的社区文化氛围，创建高品质的社区文化，促使晟邦物业获得广大业主和属地政府的高度肯定。</p>' +
+'<p>高品质的社区离不开精神文化生活，为了打造&ldquo;老有所乐，少有所学&rdquo;的社区文化氛围，晟邦物业成立社区文化中心，统筹各项目为业主阅览、易物、棋牌、学习、交流等而设置的俱乐部，利用各种文化设施开展了业主喜闻乐见、丰富多彩的文化活动。组织常态化的广场太极、广场健身舞和广场交际舞等丰富多彩的广场活动，并结合业主素养和需求成立了专业的舞蹈队、时装队、合唱队，定期交流、汇演。按年度社区活动计划定期组织节假日社区活动和适时组织了业主春游、采摘、亲子、展演和医疗保健、知识讲座等。为业主们搭建的交流平台，拉近了业主与物业之间的情谊，在保障物业基础服务的同時,提高了增值服务，同时也积极响应并践行了北京精神。</p>'
+    },
+	5: {
         'year': '2018',
         'ndate': '04-21',
         'tit': '林肯公园首届“春之林肯”摄影大赛圆满结束',
@@ -144,7 +271,7 @@ var news= {
         '                <p>活动最后，贴心管家们为获得鼓励奖的参赛者颁奖，灿烂笑容绽放在业主和管家们每个人的脸上！业主、物业一家亲！</p>\n' +
         '                通过本次大赛，拉近了业主与物业之间的距离，也增加了邻里关系的融洽。今后我们会开展更多此类活动，让我们因“春之林肯”而相遇、相识，相知。首届“春之林肯”摄影大赛圆满结束！'
     },
-    2: {
+    6: {
         'year': '2018',
         'ndate': '04-22',
         'tit': '爱“乒”才会赢林肯公园乒乓球大赛',
@@ -179,7 +306,7 @@ var news= {
         '\n' +
         '               <p>让我们相约在林肯，相聚在林肯！</p>\n'
     },
-    3: {
+    7: {
         'year': '2018',
         'ndate': '04-18',
         'tit': '金地物业到访晟邦物业项目参观交流',
@@ -215,7 +342,7 @@ var news= {
         '                <p>到访嘉宾参观园区绿化</p>\n' +
         '                本次参观在友好和谐的氛围中圆满结束，来访嘉宾对晟邦物业的热情接待表达了诚恳的谢意，并表示此行对晟邦物业无论从硬件设施，还是软件的管理，均体现其先进的服务理念、精细化的管理模式、专业化的服务团队，双方均表示在今后可加强交流和联系，进行更深入的交流与合作。'
     },
-    4: {
+    8: {
         'year': '2018',
         'ndate': '03-15',
         'tit': '学习雷锋好榜样 传递晟邦正能量',
@@ -231,7 +358,7 @@ var news= {
         '                各项目分别进行了清扫公共区域、关爱孤寡老人、磨刀、修车打气等公益活动，服务虽小却饱含真情，丰富多彩的活动让新时代雷锋精神在这个特殊的日子得到更好发扬和传递，让业主感受到晟邦物业的正能量。\n' +
         '               <p> 晟邦物业全体员工用实际行动弘扬雷锋精神、践行社会责任，业主的笑容就是我们工作的最大动力。物业每一位员工都心系业主，努力提供更优质的服务，让业主居住的更安心、舒心，让雷锋精神代代相传！</p>'
     },
-    5: {
+    9: {
         'year': '2018',
         'ndate': '01-18',
         'tit': '市、区领导莅临林肯公园业主俱乐部参观、指导',
